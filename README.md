@@ -29,4 +29,11 @@ Implemented DAX measures for advanced calculations.
 📍 Region-wise Sales Analysis revealed that Region A had a 30% higher sales rate compared to other regions.
 📦 Product Category Y emerged as the highest revenue-generating segment.
 👥 Customer Retention analysis showed a 10% decline in Q2, signaling potential areas for improvement.
+# 🖥️ Power BI Dashboard Screenshots
+![Sales Analysis Dashboard-1](https://github.com/user-attachments/assets/c852d446-bef2-497c-a594-600e962c8733)
+![Sales Analysis Dashboard-2](https://github.com/user-attachments/assets/a1d9ec66-a609-42c4-8b71-79e652d6a3e6)
+![Sales Analysis Dashboard-3](https://github.com/user-attachments/assets/7377a9a5-2c09-4b71-b0bf-32bf8f7eaf77)
+
+
+
 
